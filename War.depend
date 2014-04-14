@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1356475852 source:c:\users\osaze\documents\codeblocks\war(legit)\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<string>
+	<stack>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<functional>
+	<vector>
+	<ctime>
+	<sstream>
+
+1355251655 source:c:\users\public\documents\codeblocks\war(legit)\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<string>
+	<stack>
+	<time.h>
+	<cstdlib>
+	<algorithm>
+	<functional>
+	<vector>
+	<ctime>
+
